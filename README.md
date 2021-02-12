@@ -2,13 +2,6 @@
 
 Part of [The Odin Project](https://www.theodinproject.com/lessons/kittens-api) curriculum.
 
-## Application Features
+## Description
 
-* REST API
-
-## Kitten Features
-
-* Name
-* Age
-* Cuteness
-* Softness
+Simple project to practice setting up a REST API backend on a Rails web application.
